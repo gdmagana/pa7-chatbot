@@ -1,6 +1,9 @@
 # PA7, CS124, Stanford
 # v.1.0.4
 #
+# GROUP MEMBERS:
+# Gabe Magaña, Khaled Khan, Nissrin Gehawi
+
 # Original Python code by Ignacio Cases (@cases)
 ######################################################################
 import util
